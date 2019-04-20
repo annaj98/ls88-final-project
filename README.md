@@ -1,6 +1,6 @@
 # L&S 88 - Final Project [Sample] - Insurance Charges & Smoking Habits
 
-_Chris Pyles, [other team members]_
+_Anna Burns_
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ls88-openscienceconnector/final-project/master)
 
