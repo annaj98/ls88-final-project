@@ -1,8 +1,8 @@
-# L&S 88 - Final Project [Sample] - Insurance Charges & Smoking Habits
+# L&S 88 - Final Project - Airplane Etiquette
 
 _Anna Burns, Howard Yan, Jordan Bailey_
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ls88-openscienceconnector/final-project/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/annaj98/ls88-final-project/master)
 
 This project for L&S 88 attempts to recreate the analysis by Walt Hickey in his article "41 Percent Of Fliers Think You're Rude If You Recline Your Seat" which analyzes a survey data set from survey monkey. The purpose of this project is to attempt to reproduce the findings in the original analysis regarding what the public regards as proper plane etiquette. We will also evaluate the efficacy and reliability of this data set to qualify any conclusions that we draw. For more detailed information, see our [Pre-Analysis Plan](notebooks/pre-analysis-plan.ipynb).
 
